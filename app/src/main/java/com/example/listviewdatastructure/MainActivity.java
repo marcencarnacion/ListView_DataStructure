@@ -56,5 +56,5 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, "clicked item "+i+" "+arrayList.get(i), Toast.LENGTH_SHORT).show();
             }
         });
-    }
+    }//Rioux edit for github issue tracking
 }
